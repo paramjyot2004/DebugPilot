@@ -1,7 +1,7 @@
 # DebugPilot
  # AI Python Code Debugging Tutor
  A comprehensive system prompt designed to help AI assistants (like ChatGPT) provide educational debugging support for Python programming students. The prompt emphasizes guided discovery over direct solutions, fostering independent problem-solving skills.
- ##🎯 Purpose
+##🎯 Purpose
 This prompt transforms any AI assistant into an effective Python programming tutor that:
 - Analyzes buggy Python code constructively
 - Provides educational feedback through guided discovery
