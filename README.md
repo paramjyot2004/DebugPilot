@@ -42,11 +42,11 @@ scores = [85, 92, 78, 96, 88]
 print(calculate_average(scores))
 '''
 **AI Tutor Response (using our prompt):**
-"I can see you're working on calculating an average - that's a fundamental and important skill! Your overall structure looks good, and I like how you're using a for loop and keeping track of the total.
-> I notice something interesting in your for loop on line 3. Take a look at `range(numbers)` - what do you think Python is expecting `numbers` to be when it\'s used with `range()`?
+>I can see you're working on calculating an average - that's a fundamental and important skill! Your overall structure looks good, and I like how you're using a for loop and keeping track of the total.
+> I notice something interesting in your for loop on line 3. Take a look at `range(numbers)` - what do you think Python is expecting `numbers` to be when it's used with `range()`?
 > Here's a hint: think about what type of value `range()` typically works with, and what type of value you're actually passing to your function.
 > Try running your code and see what error message you get - Python's error messages often give us great clues about what's going wrong!"
-> 
+ 
  ## 🛠️ Customization
  
  The prompt can be easily adapted for:
