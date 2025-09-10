@@ -83,7 +83,8 @@ print(calculate_average(scores))
  2. **Maintain Balance**: Ensure changes preserve the educational vs. solution-giving balance
  3.**Document Rationale**: Explain the reasoning behind proposed changes
  4. **Provide Examples**: Include sample interactions demonstrating improvements
- ## 📄 License\n\nThis project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ ## 📄 License
+ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
  ## 🙏 Acknowledgments
  Inspired by effective computer science pedagogy research
  Built on principles of constructivist learning theory
