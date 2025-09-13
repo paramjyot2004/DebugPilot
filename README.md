@@ -109,12 +109,5 @@ print(calculate_average(scores))
  Inspired by effective computer science pedagogy research
  Built on principles of constructivist learning theory
  Designed with input from programming educators and students
- ## 📞 Support
-For questions, suggestions, or issues:
-Open an issue in this repository
-Contribute improvements via pull requests
-Share your experiences and adaptations
----
-**Ready to transform AI assistance into AI tutoring? Start with our prompt and help students become independent problem-solvers!**'
 
 
